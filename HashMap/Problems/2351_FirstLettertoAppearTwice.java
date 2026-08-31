@@ -5,7 +5,7 @@ Problem: LeetCode 2351 - First Letter to Appear Twice
 
 Description:
 Given a string s consisting of lowercase English letters,
-return the first character that appears twice.
+return the first character that appears twice..
 
 The answer is guaranteed to exist.
 
