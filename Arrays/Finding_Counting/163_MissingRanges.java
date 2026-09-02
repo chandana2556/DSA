@@ -5,7 +5,7 @@ Edge Cases:
 - Empty array
 - No missing range
 - Missing before first element
-- Missing after last element
+- Missing after last element.
 - Gaps between elements
 - Single element array
 - Negative values
