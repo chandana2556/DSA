@@ -1,6 +1,6 @@
 // Problem: Find the majority element in an array.
 // The majority element is the element that appears more than ⌊n/2⌋ times.
-// You may assume that the majority element always exists.
+// You may assume that the majority element always exists....
 
 /*
 Edge Cases:
