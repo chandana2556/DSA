@@ -4,7 +4,7 @@
 // return an array answer such that
 // answer[i] is equal to the product of all
 // elements except nums[i]...
-//..
+//
 // Do not use division.
 // Solve in O(n) time.
 
