@@ -2,7 +2,7 @@
 // Description:
 // The running sum at index i is:
 // nums[0] + nums[1] + ... + nums[i]
-// Return the running sum array.
+// Return the running sum array..
 
 /*
 Edge Cases:
