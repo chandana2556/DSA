@@ -5,7 +5,7 @@
 // equals
 // Sum of elements to the right.
 //
-// If no pivot index exists, return -1.
+// If no pivot index exists, return -1..
 
 /*
 Edge Cases:
