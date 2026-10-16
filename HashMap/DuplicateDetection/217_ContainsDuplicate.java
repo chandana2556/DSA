@@ -1,7 +1,7 @@
 // Problem: LeetCode 217 - Contains Duplicate
 // Description:
 // Return true if any value appears at least twice in the array.
-// Return false if every element is distinct.
+// Return false if every element is distinct...
 
 /*
 Edge Cases:
