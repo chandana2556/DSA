@@ -2,7 +2,7 @@
 // Description:
 // Remove duplicates from a sorted array in-place
 // such that each unique element appears only once.
-// Return the number of unique elements.
+// Return the number of unique elements...
 
 /*
 Edge Cases:
