@@ -1,6 +1,6 @@
 // Problem: LeetCode 28 - Find the Index of the First Occurrence in a String (strStr)
 // Description: Return the index of the first occurrence of "needle" in "haystack".
-// If needle is not found, return -1.
+// If needle is not found, return -1...
 
 /*
 Edge Cases:
