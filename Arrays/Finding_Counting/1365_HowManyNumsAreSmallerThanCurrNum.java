@@ -2,8 +2,7 @@
 // Description:
 // Given an array nums, for each element nums[i],
 // return how many numbers in the array are strictly
-// smaller than nums[i].
-//vana vana vellala kurise merise
+// smaller than nums[i]
 /*
 Edge Cases:
 - Single element array
