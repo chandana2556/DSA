@@ -3,6 +3,7 @@
 // Given an array nums, for each element nums[i],
 // return how many numbers in the array are strictly
 // smaller than nums[i]
+//nov5
 /*
 Edge Cases:
 - Single element array
