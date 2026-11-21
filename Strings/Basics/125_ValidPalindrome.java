@@ -1,5 +1,5 @@
 // Problem: LeetCode 125 - Valid Palindrome
-// Description: Check if a string is a palindrome considering only alphanumeric characters and ignoring cases.
+// Description: Check if a string is a palindrome considering only alphanumeric characters and ignoring cases..
 
 /*
 Edge Cases:
