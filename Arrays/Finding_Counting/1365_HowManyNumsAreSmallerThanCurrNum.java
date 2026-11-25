@@ -3,7 +3,7 @@
 // Given an array nums, for each element nums[i],
 // return how many numbers in the array are strictly
 // smaller than nums[i]
-//nov5 nov 6 nov 7 nov 8 bugga nov 10 nov 11 nov 12 nov 13 14 fuck up jjj nov 19 nov 20 omg it's nov 24
+//nov5 nov 6 nov 7 nov 8 bugga nov 10 nov 11 nov 12 nov 13 14 fuck up jjj nov 19 nov 20 omg it's nov 24 broo 25
 
 /*
 Edge Cases:
